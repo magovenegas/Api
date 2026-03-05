@@ -56,8 +56,8 @@ routes/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/magovenegas/Api
+cd Api
 
 # 2. Instalar dependencias
 composer install
